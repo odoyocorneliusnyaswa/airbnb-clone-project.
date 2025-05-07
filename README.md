@@ -1,4 +1,4 @@
-# airbnb-clone-project.
+# airbnb-clone-project
 
 Airbnb Clone – Project Overview
 
